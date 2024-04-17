@@ -1,2 +1,2 @@
 # CodSoft_Internship
-Internship tasks
+Internship Tasks of CodSoft 
